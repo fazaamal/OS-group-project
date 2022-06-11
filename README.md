@@ -23,7 +23,7 @@ Dr. Rizal
 
 # TABLE OF CONTENT
 
-**[DOCKER DESKTOP INSTALLATION](#_ibyv6248qjh7) 3**
+**[DOCKER DESKTOP INSTALLATION](#docker-desktop-installation) 3**
 
 **[WSL 2 INSTALLATION](#_t8mbchay7jj) 7**
 
