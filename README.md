@@ -23,19 +23,17 @@ Dr. Rizal
 
 # TABLE OF CONTENT
 
-**[DOCKER DESKTOP INSTALLATION](#docker-desktop-installation) 3**
+**[DOCKER DESKTOP INSTALLATION](#docker-desktop-installation) **
 
-**[WSL 2 INSTALLATION](#_t8mbchay7jj) 7**
+**[WSL 2 INSTALLATION](#wsl-2-installation) **
 
-**[STARTING DOCKER AND CONTAINER](#_wxg3hopslp7k) 11**
+**[STARTING DOCKER AND CONTAINER](#starting-docker-and-container) **
 
-[DOCKER TUTORIAL](#_66o3samzq6n) 11
+**[INSTALLING MONGODB DOCKER CONTAINER](#installing-mongodb-docker-container) **
 
-**[INSTALLING MONGODB DOCKER CONTAINER](#_e0m38m9zmolt) 14**
+**[CREATING DATABASE IN MONGODB (CLI)](#creating-database-in-mongodb-(cli)) **
 
-**[CREATING DATABASE IN MONGODB (CLI)](#_w7u4icyr1dxx) 16**
-
-**[CREATING DATABASE IN MONGODB (MONGODB COMPASS)](#_4t61j2rohx8u) 21**
+**[CREATING DATABASE IN MONGODB (MONGODB COMPASS)](#creating-database-in-mongodb-(mongodb-compass)) **
 
 ## DOCKER DESKTOP INSTALLATION
 
