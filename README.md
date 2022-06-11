@@ -21,7 +21,7 @@
 
 Dr. Rizal
 
-# TABLE OF CONTENT
+## TABLE OF CONTENT
 
 **[DOCKER DESKTOP INSTALLATION](#docker-desktop-installation) **
 
@@ -104,8 +104,6 @@ Docker will show a pop up that provides a link for WSL 2 installation, and click
 13) Once installation is completed, click on the &quot;Finish&quot; button.
 
 ## STARTING DOCKER AND CONTAINER
-
-## DOCKER TUTORIAL
 
 ![](RackMultipart20220611-1-pg5ly8_html_b69ca59fce682c40.png)
 
