@@ -119,7 +119,7 @@ i) When you press &quot;Next Step&quot; you have instruction to Push your image 
 
 21) When you completed Docker Tutorial (or skipped it), &quot;Home&quot; section will be your main menu with container options to download.
 
-For us we selected MongoDB as our database and connected it to [MongoDB Compass](#_4t61j2rohx8u) as our UI to view the content interactively.
+For us we selected MongoDB as our database and connected it to MongoDB Compass as our UI to view the content interactively.
 
 ## INSTALLING MONGODB DOCKER CONTAINER
 
