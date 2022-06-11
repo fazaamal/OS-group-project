@@ -185,7 +185,7 @@ MongoDB is a NoSQL, thus no table is created but a combination of Key-Value pair
 
 ![](https://i.ibb.co/FXKbYBR/5.png)
 
-5) Type command &quot;db.\&lt;collectionName\&gt;.insert &quot;\&lt;id\&gt;:\&lt;data\&gt;&quot;, which in our scenario is &quot;db.fruits.insert &quot;name: Apple&quot;. (Make sure to use correct syntax)
+5) Type command &quot;db.collectionName.insert(JSON object)&quot;, which in our scenario is &quot;db.fruits.insert({name: Apple})&quot;. (Make sure to use correct syntax)
 
 You can insert many fruits at once by the command &quot;db.fruits.insertMany([{name: &quot;Apple&quot;, origin: &quot;USA&quot;, price: 5}, {name: &quot;orange&quot;, origin: &quot;Italy&quot;, price: 3}, {name: &quot;Mango&quot;, origin: &quot;Malaysia&quot;, price: 3}])&quot;.
  By executing this command you will be inserting 3 fruits (Apple, Orange, and Mango), each one has its own origin and price.
