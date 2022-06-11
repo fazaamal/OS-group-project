@@ -35,7 +35,7 @@ Dr. Rizal, Section 1
 
 2) Click on &quot;Docker Desktop for Windows&quot;.
 
-![](RackMultipart20220611-1-pg5ly8_html_79528e4751a14402.png)
+![](https://i.ibb.co/30PHD9t/Step-3-installer.png)
 
 3) Open Docker installer.
 
