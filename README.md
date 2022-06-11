@@ -25,7 +25,7 @@ Dr. Rizal, Section 1
 
 [CREATING DATABASE IN MONGODB (CLI)](#creating-database-in-mongodb-cli) 
 
-[CREATING DATABASE IN MONGODB (MONGODB COMPASS)](#creating-database-in-mongodb-(mongodb-compass))
+[CREATING DATABASE IN MONGODB (MONGODB COMPASS)](#creating-database-in-mongodb-mongodb-compass)
 
 ## DOCKER DESKTOP INSTALLATION
 
