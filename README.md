@@ -29,7 +29,7 @@ Dr. Rizal, Section 1
 
 ## DOCKER DESKTOP INSTALLATION
 
-![](RackMultipart20220611-1-pg5ly8_html_f5434f295b977383.png)
+![](https://ibb.co/mqDy9NC)
 
 1) Go to docs [https://docs.docker.com/desktop/windows/install/](https://docs.docker.com/desktop/windows/install/) (for windows).
 
