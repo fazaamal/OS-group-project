@@ -31,7 +31,7 @@ Dr. Rizal
 
 **[INSTALLING MONGODB DOCKER CONTAINER](#installing-mongodb-docker-container) **
 
-**[CREATING DATABASE IN MONGODB (CLI)](#creating-database-in-mongodb-(cli)) **
+**[CREATING DATABASE IN MONGODB (CLI)](#creating-database-in-mongodb) **
 
 **[CREATING DATABASE IN MONGODB (MONGODB COMPASS)](#creating-database-in-mongodb-(mongodb-compass)) **
 
