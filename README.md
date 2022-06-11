@@ -123,19 +123,19 @@ For us we selected MongoDB as our database and connected it to MongoDB Compass a
 
 ## INSTALLING MONGODB DOCKER CONTAINER
 
-![](RackMultipart20220611-1-pg5ly8_html_e7d2766896d09568.png)
+![](https://i.ibb.co/TvsSb5T/Step-1.png)
 
 1) Open your Windows PowerShell and type &quot;docker --version&quot; to ensure MongoDB is compatible.
 
-![](RackMultipart20220611-1-pg5ly8_html_fe38da761dc68088.png)
+![](https://i.ibb.co/C6t2h6Y/Step-2.png)
 
 2) Type &quot;docker pull mongo&quot;. This will pull Mongo Image to your Docker storage
 
-![](RackMultipart20220611-1-pg5ly8_html_2c65e3903eec306f.png)
+![](https://i.ibb.co/C8LC5GH/Step-3.png)
 
 3) Type &quot;docker images&quot;. This will show you the images with it&#39;s version and related details.
 
-![](RackMultipart20220611-1-pg5ly8_html_42aa0845b435d653.png)
+![](https://i.ibb.co/M7hfFzw/Step-4.png)
 
 4) Type &quot;docker run --name mongo\_example -d mongo&quot;.
 
@@ -147,50 +147,52 @@ This will create a Docker Container with below meaning:
 - -d: detach, this means if we close the powershell/terminal the container will run on background
 - mongo: the image name we want to use
 
-![](RackMultipart20220611-1-pg5ly8_html_6694647d123a21f.png)
+![](https://i.ibb.co/RgtjMVT/Step-5.png)
 
 5) Type &quot;docker ps&quot;.
 
 This command checks the running container in Docker.
 
-![](RackMultipart20220611-1-pg5ly8_html_7ac817e33792f775.png)
+![](https://i.ibb.co/yBPLbNB/step-6-container.png)
 
 6) We can also see the container is running in Docker with the name we gave and the details
 
 ## CREATING DATABASE IN MONGODB (CLI)
 
-![](RackMultipart20220611-1-pg5ly8_html_f13616d46ed38315.png)
+![](https://i.ibb.co/vLwJLFG/1.png)
 
 1) Click on mongo CLI on Docker.
 
 Make sure the container is running and this option is available
 
-![](RackMultipart20220611-1-pg5ly8_html_ed839744ea9226c5.png)
+![](https://i.ibb.co/m0xcMWg/2.png)
 
 2) Type the command &quot;mongosh&quot;.
 
 This will access mongodb using the mongo shell.
 
-![](RackMultipart20220611-1-pg5ly8_html_47a3e538f7b3ce83.png)
+![](https://i.ibb.co/JBWCRVq/3.png)
 
 3) Type command &quot;use \&lt;dbName\&gt;&quot;, which in our scenario is &quot;food&quot;.
 
 This will create a database name &quot;food&quot; and use it as our running database.
 
-![](RackMultipart20220611-1-pg5ly8_html_999a049f5d7d122d.png)
+![](https://i.ibb.co/X3r4NBB/4.png)
 
-4) type command &quot;db.createCollection(&quot;\&lt;collectionName\&gt;&quot;), which in our scenario is &quot;fruits&quot;. This will create a collection named &quot;fruits&quot;.
+4) Type command &quot;db.createCollection(&quot;\&lt;collectionName\&gt;&quot;), which in our scenario is &quot;fruits&quot;. This will create a collection named &quot;fruits&quot;.
 
 MongoDB is a NoSQL, thus no table is created but a combination of Key-Value pair as it&#39;s database storage.
 
-![](RackMultipart20220611-1-pg5ly8_html_2b2cf0031b0e3cbd.png)
+![](https://i.ibb.co/FXKbYBR/5.png)
 
-6) Type command &quot;db.\&lt;collectionName\&gt;.insert &quot;\&lt;id\&gt;:\&lt;data\&gt;&quot;, which in our scenario is &quot;db.fruits.insert &quot;name: Apple&quot;. (Make sure to use correct syntax)
+5) Type command &quot;db.\&lt;collectionName\&gt;.insert &quot;\&lt;id\&gt;:\&lt;data\&gt;&quot;, which in our scenario is &quot;db.fruits.insert &quot;name: Apple&quot;. (Make sure to use correct syntax)
 
 You can insert many fruits at once by the command &quot;db.fruits.insertMany([{name: &quot;Apple&quot;, origin: &quot;USA&quot;, price: 5}, {name: &quot;orange&quot;, origin: &quot;Italy&quot;, price: 3}, {name: &quot;Mango&quot;, origin: &quot;Malaysia&quot;, price: 3}])&quot;.
  By executing this command you will be inserting 3 fruits (Apple, Orange, and Mango), each one has its own origin and price.
 
-We can later view the collection using find() function.
+![](https://i.ibb.co/QfcjmkS/6.png)
+
+6) We can later view the collection using find() function.
 
 \*\*We are using the built-in JS functions provided by MongoDB itself, we can also use regular SQL Command but not shown here.
 
