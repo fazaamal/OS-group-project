@@ -200,7 +200,7 @@ You can insert many fruits at once by the command &quot;db.fruits.insertMany([{n
 
 ## MONGODB COMPASS INSTALLATION
 
-![](RackMultipart20220611-1-pg5ly8_html_802d2a5175ffc54b.jpg)
+![](https://i.ibb.co/Fq93FG0/1-Download-and-Start-Install.jpg)
 
 1) Download MongoDB Compass from the link ([https://www.mongodb.com/try/download/compass](https://www.mongodb.com/try/download/compass))
 
@@ -210,25 +210,25 @@ You can insert many fruits at once by the command &quot;db.fruits.insertMany([{n
 
 4) Open the installer and click Next for the installation to start.
 
-![](RackMultipart20220611-1-pg5ly8_html_b6ae2713c9d223f.jpg)
+![](https://i.ibb.co/XzYfYZL/2-Click-next-for-the-installation.jpg)
 
 5) Click Next to begin the installation.
 
-![](RackMultipart20220611-1-pg5ly8_html_9cd3c3d09ffd6837.jpg)
+![](https://i.ibb.co/cJ8h38K/3-You-can-set-the-location-but-we-leave-it-default.jpg)
 
 6) You can change the installation directory, but we leave it as the default here.
 
 7) Click Next to confirm your directory installation.
 
-![](RackMultipart20220611-1-pg5ly8_html_f3763bbc39069316.jpg)
+![](https://i.ibb.co/CQNvLNm/4-Installation-Progress.jpg)
 
 8) Wait for the installation process to finish.
 
-![](RackMultipart20220611-1-pg5ly8_html_d3b0bea32c9759f3.jpg)
+![](https://i.ibb.co/zGzckHL/5-Installation-Finished.jpg)
 
 9) Click Finish to close the installation window.
 
-![](RackMultipart20220611-1-pg5ly8_html_d3d75d649df5c87d.jpg)
+![](https://i.ibb.co/VwQc9Zm/6-When-you-open-Mongo-DB-Compass-this-will-be-your-main-screen.jpg)
 
 10) Open your MongoDB Compass, here is shown the main menu of the application. We skipped the Introduction part.
 
