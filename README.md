@@ -39,83 +39,83 @@ Dr. Rizal, Section 1
 
 3) Open Docker installer.
 
-![](RackMultipart20220611-1-pg5ly8_html_376307c73cfeac99.png)
+![](https://i.ibb.co/tzLNVfc/Step-4-save.png)
 
 4) Choose your file destination for the installer. Docker desktop will start being installed.
 
-![](RackMultipart20220611-1-pg5ly8_html_4f6b69e5dbbf74d2.png)
+![](https://i.ibb.co/4jfjmbk/Step-5-configure-and-start-installation.png)
 
 5) Configure your docker desktop and Click &quot;OK&quot; to start installation
 
-![](RackMultipart20220611-1-pg5ly8_html_3357e9da5a372562.png)
+![](https://i.ibb.co/rZ9z9Z1/Step-5i-unpakcing-files.png)
 
 5.1) Docker will start installation by unpacking files
 
 Wait for Docker to finish unpacking files.
 
-![](RackMultipart20220611-1-pg5ly8_html_5bb15f59beb6cc3f.png)
+![](https://i.ibb.co/KKcXJqy/Step-6-restart.png)
 
 6) Once installation is complete, restart your computer.
 
-![](RackMultipart20220611-1-pg5ly8_html_d30675c63655c5c0.png)
+![](https://i.ibb.co/qnS9p42/Step-7-service-agreement.png)
 
 7) After restarting your computer, docker will start. Once it does so, accept the Service Agreement
 
 ## WSL 2 INSTALLATION
 
-![](RackMultipart20220611-1-pg5ly8_html_efc029388816abc2.png)
+![](https://i.ibb.co/TKWNF9x/Step-8-WSL-popup.png)
 
 8) In order to proceed with Docker, your computer must have a Linux kernel.
 
 Docker will show a pop up that provides a link for WSL 2 installation, and click on the link ([https://aka.ms/wsl2kernel](https://aka.ms/wsl2kernel))
 
-![](RackMultipart20220611-1-pg5ly8_html_1e5e15189f309cde.png)
+![](https://i.ibb.co/YdxSNPr/Step-9-WSL-website.png)
 
-![](RackMultipart20220611-1-pg5ly8_html_829e18a5c64eaa5f.png)
+![](https://i.ibb.co/ccddcnB/Step-9i-WSL-scroll-down.png)
 
 9) Once the website opens, scroll down to step 4, and click on the link under &quot;Download the latest package&quot;.
 
-![](RackMultipart20220611-1-pg5ly8_html_5030230ec7a87dfd.png)
+![](https://i.ibb.co/7nL7YgW/Step-10-WSL-save.png)
 
 10) Choose the file destination for the installer package and click save.
 
-![](RackMultipart20220611-1-pg5ly8_html_926c087bb05de725.png)
+![](https://i.ibb.co/mB7ZVgr/Step-11-WSL-installer.png)
 
 11) Wait for the installation, once the installation is complete, click on the .exe file.
 
-![](RackMultipart20220611-1-pg5ly8_html_1af3084fa6c1ab99.png)
+![](https://i.ibb.co/w6XjZx5/Step-12-WSL-next.png)
 
 12) Click &quot;Next&quot; on the Linux Setup Wizard.
 
-![](RackMultipart20220611-1-pg5ly8_html_9584b20bd2af7f58.png)
+![](https://i.ibb.co/qCh7cvR/Step-12-i-WSL-wait-for-installation.png)
 
-12.1) Wait for the setup wizard to finish the installation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i) Wait for the setup wizard to finish the installation.
 
-![](RackMultipart20220611-1-pg5ly8_html_f5217b0cee9baab8.png)
+![](https://i.ibb.co/CsvtdF4/Step-13-WSL-finish.png)
 
 13) Once installation is completed, click on the &quot;Finish&quot; button.
 
 ## STARTING DOCKER AND CONTAINER
 
-![](RackMultipart20220611-1-pg5ly8_html_b69ca59fce682c40.png)
+![](https://i.ibb.co/mH0zk0D/Step-14-docker-startup.png)
 
 After you Restart your computer, Docker Desktop will open.
 
-![](RackMultipart20220611-1-pg5ly8_html_8e24c3d0281dcdf.png)
+![](https://i.ibb.co/6013K16/Step-14-i-getting-started.png)
 
 14) Click on &quot;Start&quot; to get started with Docker.
 
-![](RackMultipart20220611-1-pg5ly8_html_57fc403c35923574.png)
+![](https://i.ibb.co/2jQHbNF/Step-15-and-step-16-getting-started.png)
+
+![](https://i.ibb.co/RQCzbFF/Step-17-and-step-18-getting-started.png)
 
 15 -20) Complete the tutorial.
 
-![](RackMultipart20220611-1-pg5ly8_html_3b6f41c01834276c.png)
+![](https://i.ibb.co/b5HVZMB/Step-19-and-Step-20-and-step-20-i.png)
 
-![](RackMultipart20220611-1-pg5ly8_html_60b8278f73b4cac2.png)
+i) When you press &quot;Next Step&quot; you have instruction to Push your image to your Docker Hub (not shown for the 4th step)
 
-20.1) When you press &quot;Next Step&quot; you have instruction to Push your image to your Docker Hub (not shown for the 4th step)
-
-![](RackMultipart20220611-1-pg5ly8_html_fc947fc73f7f0dcd.png)
+![](https://i.ibb.co/10Lqmm4/Step-21-final.png)
 
 21) When you completed Docker Tutorial (or skipped it), &quot;Home&quot; section will be your main menu with container options to download.
 
