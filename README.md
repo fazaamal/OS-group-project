@@ -235,3 +235,65 @@ You can insert many fruits at once by the command &quot;db.fruits.insertMany([{n
 11) This is the configuration you will use to connect MongoDB Compass to the MongoDB you set up inside Docker (MongoDB Container).
 
 ## CREATING DATABASE IN MONGODB (MONGODB COMPASS)
+
+![](https://i.ibb.co/2SVYK8V/1-Step-1-i-set-the-port-number-to-27017.png)
+
+1(i) Create a container with 271017 port number
+
+![](https://i.ibb.co/TgSjyHm/Step-1-ii-Click-on-Advanced-connection-options.png)
+
+1)(ii) Go to Mongo Compass Desktop and click on Advanced Conncection Options
+
+![](https://i.ibb.co/C8JJrWX/Step-2-and-Step-3-Authentication.png)
+
+2) Click on Authentication
+
+3) Click on Username/Password
+
+![](https://i.ibb.co/qxYh1WP/Step-4-set-username-and-password.png)
+
+4) Set Username and Password
+
+![](https://i.ibb.co/BPZqDb0/Step-4i-connected.png)
+
+Step 4(i) Mongo Compass connected
+
+![](https://i.ibb.co/QJHyVML/Step-5-click-on-database-then-create-db.png)
+
+5) Click on Databases then create Database
+
+![](https://i.ibb.co/5jvFLz2/Step-6-name-db-and-collection.png)
+
+6) Name database and collection
+
+![](https://i.ibb.co/C6ycXTh/Step-6-i-db-created.png)
+
+6)(i) Database created
+
+![](https://i.ibb.co/wYwhzzJ/Step-7-click-on-db.png)
+
+7)Click on database
+
+![](https://i.ibb.co/FYh6M7m/Step-8-click-on-collection.png)
+
+8) Click on collection
+
+![](https://i.ibb.co/5TDtnMX/Step-9-click-on-add-data.png)
+
+9) Click on add data m
+
+![](https://i.ibb.co/2cJYfby/Step-10-click-on-insert-document.png)
+
+10) Click on insert document
+
+![](https://i.ibb.co/sPFCg33/Step-11-insert-data-using-JSON-format.png)
+
+11) Insert data
+
+![](https://i.ibb.co/LpXDwfS/Step-11i-data-successfully-added.png)
+
+11)(i) Data successfully added
+
+![](https://i.ibb.co/FYfwqpL/Step-12-searching-for-data-final.png)
+
+12) Search for data
