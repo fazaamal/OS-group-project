@@ -113,7 +113,7 @@ After you Restart your computer, Docker Desktop will open.
 
 ![](https://i.ibb.co/b5HVZMB/Step-19-and-Step-20-and-step-20-i.png)
 
-i) When you press &quot;Next Step&quot; you have instruction to Push your image to your Docker Hub (not shown for the 4th step)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i) When you press &quot;Next Step&quot; you have instruction to Push your image to your Docker Hub (not shown for the 4th step)
 
 ![](https://i.ibb.co/10Lqmm4/Step-21-final.png)
 
@@ -173,13 +173,13 @@ This will access mongodb using the mongo shell.
 
 ![](https://i.ibb.co/JBWCRVq/3.png)
 
-3) Type command &quot;use \&lt;dbName\&gt;&quot;, which in our scenario is &quot;food&quot;.
+3) Type command &quot;use dbName&quot;, which in our scenario is &quot;food&quot;.
 
 This will create a database name &quot;food&quot; and use it as our running database.
 
 ![](https://i.ibb.co/X3r4NBB/4.png)
 
-4) Type command &quot;db.createCollection(&quot;\&lt;collectionName\&gt;&quot;), which in our scenario is &quot;fruits&quot;. This will create a collection named &quot;fruits&quot;.
+4) Type command &quot;db.createCollection(&quot;collectionName&quot;), which in our scenario is &quot;fruits&quot;. This will create a collection named &quot;fruits&quot;.
 
 MongoDB is a NoSQL, thus no table is created but a combination of Key-Value pair as it&#39;s database storage.
 
