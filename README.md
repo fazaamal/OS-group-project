@@ -1,5 +1,7 @@
 # **DOCKER AND DATABASE SETUP**
 
+## Link to Google Docs (backup): [Click here](https://docs.google.com/document/d/1wzcsIiCowplbkTmHnPt6YmQ3Dpv_2DsILEakmBFyuW8/edit?usp=sharing)
+
 **PREPARED BY:**
 
 | **NAME** | **MATRIC NO.** |
